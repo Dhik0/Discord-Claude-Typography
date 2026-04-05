@@ -2,6 +2,8 @@
 A lightweight solution to replace Discord fonts with Claude style using betterdiscord.
 
 
+<img width="1731" height="1088" alt="屏幕截图 2026-04-05 150242" src="https://github.com/user-attachments/assets/8cbe382e-70a0-4f90-b8ec-dbf3ff74edeb" />
+<img width="1651" height="731" alt="屏幕截图 2026-04-05 150316" src="https://github.com/user-attachments/assets/e0c8a7f0-c312-422b-9682-4536a37938f6" />
 
 ⚠️ Important: Before You Start
 To ensure the CSS applies correctly and to allow for troubleshooting, please check your BetterDiscord Settings:
