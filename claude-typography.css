@@ -1,0 +1,33 @@
+/**
+ * Discord Claude.ai Typography Patch
+ * Author: Your GitHub Name
+ * Version: 2026.04 Stable
+ */
+
+/* Target only the message content using wildcard selectors for 2026 compatibility */
+[class^="markup_"], 
+[class^="messageContent_"], 
+[class*="messageContent-"] {
+    /* The Claude.ai Font Stack */
+    font-family: "Charter", "Bitstream Charter", "Sitka Text", "Georgia", "Source Han Serif CN", serif !important;
+    font-size: 1.08rem !important;
+    line-height: 1.75 !important;
+    letter-spacing: 0.01em !important;
+    color: #e5e5e5 !important;
+    
+    /* Text rendering optimizations */
+    -webkit-font-smoothing: antialiased !important;
+    text-rendering: optimizeLegibility !important;
+}
+
+/* Ensure UI elements remain Sans-serif */
+[class^="username_"], [class^="channelName_"], [class^="name_"] {
+    font-family: "Inter", "Segoe UI", "PingFang SC", sans-serif !important;
+    font-weight: 600 !important;
+}
+
+/* Keep code blocks professional */
+code {
+    font-family: "JetBrains Mono", "Consolas", monospace !important;
+    background: rgba(0, 0, 0, 0.3) !important;
+}
