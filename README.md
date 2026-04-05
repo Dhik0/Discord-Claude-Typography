@@ -30,7 +30,7 @@ Most Discord themes break whenever the official app updates. This patch uses "Ma
 ### Quick Start
 1. Open BetterDiscord  or Vencord settings.
 2. Go to Custom CSS.
-3. Paste the code from `discord-claude.css` in this repo.
+3. Paste the code from `claude-typography.css` in this repo.
 4. Hit Save and enjoy.
 
 ###  Technical Logic (For Devs)
