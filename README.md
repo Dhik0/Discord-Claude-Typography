@@ -36,5 +36,7 @@ The snippet leverages attribute wildcard selectors to target dynamically generat
 - `[class^="markup_"]`: Matches any class starting with `markup_`.
 - `[class*="messageContent-"]`: Ensures fallback for different Discord versions.
 
+###  Get the Code
+You can find the CSS file here: [claude-typography.css](./claude-typography.css)
 ---
 *Created by a developer who just wanted to read Discord messages like a pro.*
